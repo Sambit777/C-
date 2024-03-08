@@ -1,3 +1,5 @@
+// C++ code for array reversing
+
 #include <iostream>
 using namespace std;
 
